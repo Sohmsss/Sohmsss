@@ -2,7 +2,7 @@
 
 ### Technical Growth Marketer | Developer | Data Enthusiast
 
-Welcome to my GitHub! I'm a Technical Growth Marketer with a strong foundation in **AI-driven marketing**, **conversion optimization**, and **scalable automation**. My projects center around creating impactful tools that bridge **data analytics** and **growth strategy**.
+Welcome to my GitHub! I'm a Technical Growth Marketer with a strong foundation in **AI-driven marketing**, **conversion optimisation**, and **scalable automation**. My projects center around creating impactful tools that bridge **data analytics** and **growth strategy**.
 
 🔍 **Areas I work on:**
 - AI and automation for marketing insights
