@@ -8,11 +8,12 @@ Welcome to my GitHub! I'm a Technical Growth Marketer with a strong foundation i
 - AI and automation for marketing insights
 - Data-driven growth solutions
 - Web scraping and competitor analysis
+- Conversion rate optimisation
 
 🚀 **My Toolkit:**  
 - **Languages**: JavaScript (Node.js), Python
 - **Frameworks**: Express, Flask, Playwright
-- **Tools**: Docker, n8n, VWO
+- **Tools**: Docker, n8n, VWO, Big Query, Looker
 
 🌐 **Explore my portfolio:**  
 Check out my latest projects and in-depth case studies at [freddiewild.com](https://freddiewild.com).
