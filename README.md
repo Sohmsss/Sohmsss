@@ -1,22 +1,15 @@
-# Hi there, I'm Freddie Wild 👋
+# Hey, I’m Freddie 👋
 
-### Technical Growth Marketer | Developer | Data Enthusiast
+I work in **growth and innovation** at [Holiday Extras](https://www.holidayextras.com), exploring how **AI, data, and experimentation** can make travel better and ideas move faster.
 
-Welcome to my GitHub! I'm a Technical Growth Marketer with a strong foundation in **AI-driven marketing**, **conversion optimisation**, and **scalable automation**. My projects center around creating impactful tools that bridge **data analytics** and **growth strategy**.
+I love building things, from **AI tools** and **automations** to **side projects** that make work (and life) smoother.
 
-🔍 **Areas I work on:**
-- AI and automation for marketing insights
-- Data-driven growth solutions
-- Web scraping and competitor analysis
-- Conversion rate optimisation
+🧠 Interested in: AI, growth strategy, automation  
+⚙️ Usually building with: Node.js & Python  
+🥋 Outside of work: Muay Thai obsessive
 
-🚀 **My Toolkit:**  
-- **Languages**: JavaScript (Node.js), Python
-- **Frameworks**: Express, Flask, Playwright
-- **Tools**: Docker, n8n, VWO, Big Query, Looker
+👉 [freddiewild.com](https://freddiewild.com)
 
-🌐 **Explore my portfolio:**  
-Check out my latest projects and in-depth case studies at [freddiewild.com](https://freddiewild.com).
 
 <!--
 **Sohmsss/Sohmsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
