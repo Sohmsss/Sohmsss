@@ -8,8 +8,6 @@ I love building things, from **AI tools** and **automations** to **side projects
 ⚙️ Usually building with: Node.js & Python  
 🥋 Outside of work: Muay Thai obsessive
 
-👉 [freddiewild.com](https://freddiewild.com)
-
 
 <!--
 **Sohmsss/Sohmsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
